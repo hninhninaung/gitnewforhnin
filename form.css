@@ -1,0 +1,52 @@
+
+.one{
+	margin-top:20px; width:150px;
+	border-radius: 20px;
+	background-color: black;
+	border: 3px solid black;
+	border-style: groove;
+	border-top: groove;
+	color:white;
+}
+.gho{
+	padding: 27px;  
+}
+.frist{
+	padding: 19px;
+}
+.second{
+	padding:20px;
+}
+.third{
+	padding:12px;
+}
+.four{
+	padding: 9px;
+}
+.five{
+	padding: 22px;
+}
+.input{
+	margin-top:20px;   
+}
+.heading {
+	text-align:center;
+	background-color: maroon;
+	color:white; width:50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+.type{
+	border-radius: 20px; padding:10px; margin-top:20px;
+	background-color: teal; margin-left: 30px;
+}
+
+.hhh{
+	background-color: teal;
+}
+
+.gh{
+	 padding:10px; border-radius: 20px; background-color: olive;
+	  margin-right: 40px;
+}
